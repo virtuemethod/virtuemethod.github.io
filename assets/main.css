@@ -106,6 +106,8 @@
             }
             div.panel.dark-gray{
                 background-color: var(--clr-dark-gray);
+                color: var(--clr-white);
+                -webkit-text-fill-color: var(--clr-white);
             }
             div.panel_spacer{
                 height: 160px;
