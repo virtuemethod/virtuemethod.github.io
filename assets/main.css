@@ -104,6 +104,9 @@
             div.panel.gray{
                 background-color: var(--clr-light-gray);
             }
+            div.panel.dark-gray{
+                background-color: var(--clr-dark-gray);
+            }
             div.panel_spacer{
                 height: 160px;
             }
