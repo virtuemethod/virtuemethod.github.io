@@ -225,8 +225,9 @@
             }
             img.schematic{
                 object-fit: scale-down;
-                width: 100%;
+                width: 75%;
 	    	padding: 0 25px;
+		box-sizing: border-box;
             }
             div.main_panel_content_store_icons{
                 display: flex;
@@ -385,6 +386,10 @@
                 nav.footer_content{
                     width: 600px;
                 }
+		img.schematic{
+			object-fit: scale-down;
+			width: 100%;
+		}
                 div.main_panel_content_community_icons{
                     display: block;
                 }
